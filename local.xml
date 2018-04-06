@@ -22,11 +22,11 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
   <project name="nostumato/android_vendor_nitrogen" path="vendor/nitrogen" remote="github" revision="o2" />
-  <project name="jalebioreo/android_device_yu_jalebi" path="device/yu/jalebi" remote="github" revision="lineage-15.1" />
-  <project name="jalebioreo/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="lineage-15.1" />
-  <project name="jalebioreo/android_kernel_cyanogen_msm8916" path="kernel/cyanogen/msm8916" remote="github" revision="lineage-15.1" />
+  <project name="TheScarastic/android_device_xiaomi_tissot" path="device/xiaomi/tissot" remote="github" revision="lineage-15.1" />
+  <project name="TheScarastic/android_device_xiaomi_msm8953-common" path="device/xiaomi/msm8953-common" remote="github" revision="lineage-15.1" />
+  <project name="TheScarastic/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" revision="lineage-15.1-tissot" />
   <project name="jalebioreo/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.0" />
-  <project name="jalebioreo/vendor_yu" path="vendor/yu" remote="github" revision="lineage-15.1" />
+  <project name="TheScarastic/proprietary_vendor_xiaomi" path="vendor/yu" remote="github" revision="lineage-15.1-tissot" />
 
 <!--  <project name="GZOSP/device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="8.0" /> -->
 
